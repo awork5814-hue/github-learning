@@ -1,0 +1,4 @@
+Things I'm learning:
+- Git branching (today!)
+- Pull Requests
+- Stashing
