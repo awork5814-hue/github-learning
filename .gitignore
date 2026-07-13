@@ -1,0 +1,15 @@
+# Secret files
+.env
+.env.local
+# Dependencies
+node_modules/
+__pycache__/
+# Logs
+*.log
+npm-debug.log*
+# OS junk
+.DS_Store
+Thumbs.db
+# Build output
+dist/
+build/
