@@ -24,3 +24,4 @@ Things to learn next:
 - GitHub Actions
 - Git tags
 - Interactive rebase
+Testing run watch
