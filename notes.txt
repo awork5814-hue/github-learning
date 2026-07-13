@@ -1,1 +1,18 @@
-Your favorite command here
+Git Basics:
+- git add
+- git commit
+- git push
+
+Git Branching:
+- git branch
+- git checkout
+- git merge
+
+Git Undo:
+- git restore
+- git reset
+- git revert
+
+Git History:
+- git log
+- git diff
