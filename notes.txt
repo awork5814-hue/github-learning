@@ -2,6 +2,7 @@ Git Basics:
 - git add
 - git commit
 - git push
+- git status
 
 Git Branching:
 - git branch
