@@ -8,6 +8,7 @@ Git Branching:
 - git branch
 - git checkout
 - git merge
+- git stash
 
 Git Undo:
 - git restore
@@ -17,3 +18,9 @@ Git Undo:
 Git History:
 - git log
 - git diff
+- git show
+
+Things to learn next:
+- GitHub Actions
+- Git tags
+- Interactive rebase
